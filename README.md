@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karpagasivaraman955
+- 👋 Hi, I’m karpagasivaraman D S
 - 👀 I’m interested in python,website Development 
 - 🌱 I’m currently learning B.Tech Artificial Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on ...
